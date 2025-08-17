@@ -1,0 +1,17 @@
+POSITION_MAP
+45deg{4}CENTER|A
+135deg{4}CENTER|B
+225deg{4}CENTER|C
+315deg{4}CENTER|D
+
+CONNECTION_MAP
+A:B|doublearrow
+B:C|doublearrow
+C:D|doublearrow
+D:A|doublearrow
+
+SHAPE_MAP
+A:rect
+B:rect
+C:rect
+D:rect

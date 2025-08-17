@@ -1,0 +1,14 @@
+POSITION_MAP
+r{8}CENTER|A
+d{5}A|B
+l{5}B|C
+
+CONNECTION_MAP
+A:B|line
+B:C|dotted
+C:A|line
+
+SHAPE_MAP
+A:rect
+B:circ
+C:rect
