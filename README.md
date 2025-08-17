@@ -68,24 +68,3 @@ C:rect
 3. Click example buttons to see sample diagrams
 4. Diagrams render automatically with live preview
 
-## Project Structure
-
-```
-gendia/
-├── index.html          # Main playground interface
-├── gendia.js          # Core GenDia engine and playground
-├── utils.js           # File parsing utilities
-├── examples/          # Example .gendia files
-│   ├── basic.gendia
-│   ├── flowchart.gendia
-│   ├── angular.gendia
-│   └── tree.gendia
-└── test/             # Test files
-```
-
-## Tech Stack
-
-- **Frontend**: HTML5 Canvas, Modern CSS, Vanilla JavaScript
-- **Parsing**: Custom grammar parser (no external dependencies)
-- **Styling**: Dark theme with gradient effects and modern typography
-- **Architecture**: ES6 modules with async file loading
