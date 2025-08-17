@@ -1,6 +1,5 @@
 # GenDia Grammar Specification
 
-This document and the test cases are created using Claude Sonnet 4
 This document defines the complete grammar for `.gendia` files used by the GenDia diagram generator.
 
 ## File Structure
