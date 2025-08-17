@@ -1,10 +1,12 @@
 # GenDia
 
-A modern diagram generation tool that creates visual diagrams from simple text instructions without using LLMs. This hobby project is inspired by Pikchr and provides a clean, rule-based approach to diagram creation.
+A simple rule based diagram generation tool that creates visual diagrams. This hobby project is inspired by Pikchr.
+
+## Preview
+![Screenshot](./assets/screenshot/ss.png)
 
 ## Features
 
-- **Modern Dark Theme Playground**: Professional web-based editor with syntax highlighting
 - **Grid-Based Coordinate System**: 20px grid with visual alignment and coordinate display
 - **Arrow Support**: Single arrows (`arrow`) and double arrows (`doublearrow`)
 - **Contour-Based Connections**: Lines connect to shape boundaries, not centers
