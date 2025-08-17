@@ -61,7 +61,6 @@ class GenDiaPlayground {
 
         // Coordinate tracking
         this.canvas.addEventListener('mousemove', (e) => this.updateCoordinates(e));
-        this.canvas.addEventListener('mouseleave', () => this.hideCoordinates());
 
         // Resize canvas when window resizes
         window.addEventListener('resize', () => {
