@@ -1,6 +1,6 @@
 # GenDia
 
-A simple rule based diagram generation tool that creates visual diagrams. This hobby project is inspired by Pikchr.
+A simple rule based diagram generation tool that creates visual diagrams.
 
 ## Preview
 ![Screenshot](./assets/screenshot/ss.png)
